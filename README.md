@@ -1,6 +1,12 @@
 # 🚀 Full Stack Developer Simplified Portfolio
 
-![🌟 Screenshot](./screenshot.png)
+## 📸 Screenshot
+
+<details>
+  <summary>🔍 Click to View Screenshot</summary>
+  <img src="https://i.ibb.co/VXQ3gMZ/screenshort.png" alt="Project Screenshot">
+</details>
+
 
 ## 🌍 Overview
 A modern, sleek web application built with cutting-edge technologies. ✨
