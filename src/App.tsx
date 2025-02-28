@@ -16,7 +16,7 @@ function App() {
           <div className="md:w-3/4 relative">
             <div className="flex items-center gap-2">
               <h1 className="text-2xl md:text-4xl font-bold text-white tracking-tight">
-                Hi, I'm <span className="gradient-text">tri</span>
+                Hi, I'm <span className="gradient-text">Sam</span>
               </h1>
               {/* Profile Picture - Next to name */}
               <div className="w-10 h-10 md:w-12 md:h-12 rounded-full overflow-hidden border-2 border-accent-500 glow-effect">
@@ -432,7 +432,7 @@ function App() {
                 <div className="w-3 h-3 rounded-full bg-green-500 shadow-[0_0_5px_rgba(34,197,94,0.5)]"></div>
               </div>
               <div className="flex-1 text-center">
-                <span className="text-xs font-medium text-gray-300 font-mono tracking-wide">tri@portfolio ~</span>
+                <span className="text-xs font-medium text-gray-300 font-mono tracking-wide">sam@portfolio ~</span>
               </div>
               <div className="flex items-center gap-2">
                 <span className="text-[10px] text-gray-400 bg-dark-800/80 px-1.5 py-0.5 rounded-md border border-dark-600">bash</span>
@@ -465,7 +465,7 @@ function App() {
                     <Code size={16} className="text-accent-400" />
                   </div>
                   <h3 className="text-base font-bold text-white flex items-center">
-                    z9tri<span className="gradient-text"></span>
+                    Sam<span className="gradient-text"></span>
                     <span className="ml-2 text-[10px] text-accent-400 bg-dark-700/80 px-1.5 py-0.5 rounded-full border border-accent-500/30">v2.5.0</span>
                   </h3>
                 </div>
@@ -516,7 +516,7 @@ function App() {
                       </div>
                       <div>
                         <p className="text-[10px] text-gray-400">Email</p>
-                        <p className="text-xs text-gray-300 group-hover:text-accent-400 transition-colors">tri@broken.cat</p>
+                        <p className="text-xs text-gray-300 group-hover:text-accent-400 transition-colors">sam@example.com</p>
                       </div>
                     </a>
                     
@@ -531,7 +531,7 @@ function App() {
                       </div>
                       <div>
                         <p className="text-[10px] text-gray-400">GitHub</p>
-                        <p className="text-xs text-gray-300 group-hover:text-accent-400 transition-colors">github.com/therocketor</p>
+                        <p className="text-xs text-gray-300 group-hover:text-accent-400 transition-colors">github.com/sam</p>
                       </div>
                     </a>
                     
@@ -546,7 +546,7 @@ function App() {
                       </div>
                       <div>
                         <p className="text-[10px] text-gray-400">LinkedIn</p>
-                        <p className="text-xs text-gray-300 group-hover:text-accent-400 transition-colors">linkedin.com/in/tri</p>
+                        <p className="text-xs text-gray-300 group-hover:text-accent-400 transition-colors">linkedin.com/in/sam</p>
                       </div>
                     </a>
                   </div>
@@ -557,7 +557,7 @@ function App() {
                   </div>
                 </div>
                 
-                <p className="text-gray-300 text-xs">© {new Date().getFullYear()} z9tri . All rights reserved.</p>
+                <p className="text-gray-300 text-xs">© {new Date().getFullYear()} Sam. All rights reserved.</p>
               </div>
             </div>
           </div>
