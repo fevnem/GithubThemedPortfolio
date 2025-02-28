@@ -20,8 +20,8 @@ A modern, sleek web application built with cutting-edge technologies. ✨
 
 ## 🛠️ Installation
 ```sh
-git clone https://github.com/your-repo.git
-cd your-repo
+git clone https://github.com/therocketor/simplified-portfolio.git
+cd simplified-portfolio
 npm install
 npm run dev
 ```
