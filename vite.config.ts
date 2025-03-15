@@ -6,7 +6,7 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/portfolio/',
+  base: '/GithubThemedPortfolio/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
