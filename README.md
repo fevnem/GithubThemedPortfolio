@@ -11,17 +11,18 @@
 ## 🌍 Overview
 A modern, sleek web application built with cutting-edge technologies. ✨
 
-🔗 [**Live Demo**](https://exquisite-semifreddo-443bb6.netlify.app/)
+🔗 [**Live Demo**](https://fevnem.github.io/GithubThemedPortfolio/)
 
 ## 🎯 Features
 ✅ Responsive UI with **Tailwind CSS**
 ✅ Powered by **React & TypeScript**
 ✅ Optimized for **high performance**
+✅ **GitHub Pages** deployment ready
 
 ## 🛠️ Installation
 ```sh
-git clone https://github.com/nexquivor/GithubThemedPortfolio.git
-cd simplified-portfolio
+git clone https://github.com/fevnem/GithubThemedPortfolio.git
+cd GithubThemedPortfolio
 npm install
 npm run dev
 ```
@@ -31,6 +32,8 @@ To build and deploy, run:
 ```sh
 npm run build
 ```
+
+The project is configured to automatically deploy to GitHub Pages via GitHub Actions when code is pushed to the main branch.
 
 ## 📁 Project Structure
 ```
