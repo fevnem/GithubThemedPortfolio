@@ -1,8 +1,7 @@
 import React from 'react';
-import { Mail, Code, Briefcase, User, Star, Terminal, GitFork, Eye, Heart, Coffee, Github, Linkedin } from 'lucide-react';
+import { Mail, Code, Briefcase, User, Star, Terminal, GitFork, Eye, Heart, Github, Linkedin } from 'lucide-react';
 import Navbar from './components/Navbar';
 import Section from './components/Section';
-import ProjectCard from './components/ProjectCard';
 import SkillBadge from './components/SkillBadge';
 
 function App() {
